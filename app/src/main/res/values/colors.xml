@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#0033cc</color>
+    <color name="colorAccent">#cd3e8b</color>
+    <color name="Black">#000000</color>
+    <color name="White">#ffffff</color>
+    <color name="Pink">#FF00FF</color>
+    <color name="Aqua">#c2f3f3</color>
+    <color name="navy">#7a90f5</color>
+    <color name="grey">#d6d7d7</color>
+    <color name="Aqua1">#FF7283E5</color>
+    <color name="blue">#0033cc</color>
+    <color name="aque">#5ed5500d</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="semi">#5A2476</color>
+    <color name="logib">#4199D7</color>
+</resources>
